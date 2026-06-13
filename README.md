@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-- **Vercel**: *(deploy link here)*
+- **Vercel**: [https://test-nguyenkhanhduong-998.vercel.app](https://test-nguyenkhanhduong-998.vercel.app)
 - **Demo Video**: *(Google Drive link here)*
 
 ---
