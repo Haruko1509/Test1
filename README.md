@@ -7,7 +7,7 @@
 ## 🚀 Live Demo
 
 - **Vercel**: [https://test-nguyenkhanhduong-998.vercel.app](https://test-nguyenkhanhduong-998.vercel.app)
-- **Demo Video**: *(Google Drive link here)*
+- **Demo Video**: [▶️ Xem video demo](https://drive.google.com/file/d/1zPEHu5oQJDU9FttRZhYyu3oGJatnb2io/view?usp=sharing)
 
 ---
 
